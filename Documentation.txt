@@ -1,0 +1,13 @@
+                                                                     SheetShaper - Developed by Corey Kwiatkowski, 2023
+
+To use SheetShaper please convert the file you wish to use to an Excel file or .xlsx
+Use one of the tools if assistance is needed in the form of CSV to Excel or HTML to Excel
+That whole process will be automated for you!
+
+String Use - Type in a string of letters, numbers, or words and SheetShaper will locate those within the workbooks provided and export any rows with the string to their own workbook
+Time Break - Input a number in minutes you would like SheetShaper to insert a blank row
+Date Parsing - Input a Date to either start or stop at or both when parsing timestamps
+Time Parsing - Input a time in military time into the start or end hour or both
+Excel Viewer - Just load the spreadsheet and view
+Graph Function - Will graph the most the timestamp data and visualize the data to see which day has the most activity
+Graph Clicking - If you click on a day in the grpah it will give you a seperate workbook with seperate sheets for each day you clicked
